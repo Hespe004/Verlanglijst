@@ -1,29 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Site.csproj": {}
+    "C:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Site.csproj": {}
   },
   "projects": {
-    "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Site.csproj": {
+    "C:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Site.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Site.csproj",
+        "projectUniqueName": "C:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Site.csproj",
         "projectName": "Site",
-        "projectPath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Site.csproj",
+        "projectPath": "C:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Site.csproj",
         "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\obj\\",
+        "outputPath": "C:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fabia\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\fabia\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.nuget.org/api/v2": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -92,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

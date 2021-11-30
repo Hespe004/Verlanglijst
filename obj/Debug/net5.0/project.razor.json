@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Site.csproj",
+  "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Site.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,133 +15619,133 @@
   "RootNamespace": "Site",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\PS\\Delete.cshtml",
-      "TargetPath": "Views\\PS\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\PS\\Index.cshtml",
-      "TargetPath": "Views\\PS\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\BR\\Details.cshtml",
-      "TargetPath": "Views\\BR\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\Verzamel\\Index.cshtml",
-      "TargetPath": "Views\\Verzamel\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\Verzamel\\Delete.cshtml",
-      "TargetPath": "Views\\Verzamel\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\Verzamel\\Details.cshtml",
-      "TargetPath": "Views\\Verzamel\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\PS\\Details.cshtml",
-      "TargetPath": "Views\\PS\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\Verzamel\\Edit.cshtml",
-      "TargetPath": "Views\\Verzamel\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\Verzamel\\Create.cshtml",
-      "TargetPath": "Views\\Verzamel\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\Overig\\Details.cshtml",
-      "TargetPath": "Views\\Overig\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\Overig\\Create.cshtml",
-      "TargetPath": "Views\\Overig\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\Overig\\Delete.cshtml",
-      "TargetPath": "Views\\Overig\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\Overig\\Index.cshtml",
-      "TargetPath": "Views\\Overig\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\Overig\\Edit.cshtml",
-      "TargetPath": "Views\\Overig\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\BR\\Create.cshtml",
-      "TargetPath": "Views\\BR\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\BR\\Index.cshtml",
-      "TargetPath": "Views\\BR\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\PS\\Edit.cshtml",
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\PS\\Edit.cshtml",
       "TargetPath": "Views\\PS\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\PS\\Create.cshtml",
-      "TargetPath": "Views\\PS\\Create.cshtml",
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\PS\\Delete.cshtml",
+      "TargetPath": "Views\\PS\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\BR\\Edit.cshtml",
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\PS\\Index.cshtml",
+      "TargetPath": "Views\\PS\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\BR\\Edit.cshtml",
       "TargetPath": "Views\\BR\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\BR\\Delete.cshtml",
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\Overig\\Details.cshtml",
+      "TargetPath": "Views\\Overig\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\Overig\\Edit.cshtml",
+      "TargetPath": "Views\\Overig\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\Overig\\Create.cshtml",
+      "TargetPath": "Views\\Overig\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\BR\\Delete.cshtml",
       "TargetPath": "Views\\BR\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\src\\Site\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\BR\\Details.cshtml",
+      "TargetPath": "Views\\BR\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\PS\\Details.cshtml",
+      "TargetPath": "Views\\PS\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\Overig\\Index.cshtml",
+      "TargetPath": "Views\\Overig\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\Verzamel\\Details.cshtml",
+      "TargetPath": "Views\\Verzamel\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\PS\\Create.cshtml",
+      "TargetPath": "Views\\PS\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\BR\\Index.cshtml",
+      "TargetPath": "Views\\BR\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\BR\\Create.cshtml",
+      "TargetPath": "Views\\BR\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\Verzamel\\Edit.cshtml",
+      "TargetPath": "Views\\Verzamel\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\Overig\\Delete.cshtml",
+      "TargetPath": "Views\\Overig\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\Verzamel\\Index.cshtml",
+      "TargetPath": "Views\\Verzamel\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\Verzamel\\Create.cshtml",
+      "TargetPath": "Views\\Verzamel\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Views\\Verzamel\\Delete.cshtml",
+      "TargetPath": "Views\\Verzamel\\Delete.cshtml",
       "FileKind": "mvc"
     }
   ],
