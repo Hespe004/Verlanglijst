@@ -26,7 +26,7 @@ namespace Site
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            services.AddDbContext<MijnContext>(options => options.UseSqlite("Data Source=database.db"));
+            services.AddDbContext<MijnContext>(options => options.UseSqlite("Data Source=./publish/database.db"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
