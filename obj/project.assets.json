@@ -7779,11 +7779,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Site.csproj",
+      "projectUniqueName": "C:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Site.csproj",
       "projectName": "Site",
-      "projectPath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Site.csproj",
+      "projectPath": "C:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\Site.csproj",
       "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\obj\\",
+      "outputPath": "C:\\Users\\fabia\\OneDrive\\Documenten\\.verjaardag\\VerlanglijstjeSite\\temp\\Verlanglijst\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fabia\\AppData\\Roaming\\NuGet\\NuGet.Config"
